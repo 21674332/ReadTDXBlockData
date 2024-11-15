@@ -1,0 +1,15 @@
+C:\Users\21674\source\repos\ConsoleApp3\bin\Debug\net8.0\ReadTDXBlockData.exe
+C:\Users\21674\source\repos\ConsoleApp3\bin\Debug\net8.0\block_gn.dat
+C:\Users\21674\source\repos\ConsoleApp3\bin\Debug\net8.0\ReadTDXBlockData.deps.json
+C:\Users\21674\source\repos\ConsoleApp3\bin\Debug\net8.0\ReadTDXBlockData.runtimeconfig.json
+C:\Users\21674\source\repos\ConsoleApp3\bin\Debug\net8.0\ReadTDXBlockData.dll
+C:\Users\21674\source\repos\ConsoleApp3\bin\Debug\net8.0\ReadTDXBlockData.pdb
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\ReadTDXBlockData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\ReadTDXBlockData.AssemblyInfoInputs.cache
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\ReadTDXBlockData.AssemblyInfo.cs
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\ReadTDXBlockData.csproj.CoreCompileInputs.cache
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\ReadTDXBlockData.dll
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\refint\ReadTDXBlockData.dll
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\ReadTDXBlockData.pdb
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\ReadTDXBlockData.genruntimeconfig.cache
+C:\Users\21674\source\repos\ConsoleApp3\obj\Debug\net8.0\ref\ReadTDXBlockData.dll

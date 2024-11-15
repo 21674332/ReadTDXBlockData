@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTDXBlockData", "ReadTDXBlockData.csproj", "{DAAD3E47-C603-4B75-A40A-607470C67A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAAD3E47-C603-4B75-A40A-607470C67A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAD3E47-C603-4B75-A40A-607470C67A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAD3E47-C603-4B75-A40A-607470C67A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAD3E47-C603-4B75-A40A-607470C67A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE208A8E-0BB0-41A6-83F6-05C22E1C2D71}
+	EndGlobalSection
+EndGlobal
